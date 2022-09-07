@@ -1,4 +1,5 @@
 from hextrato import forest
-print("FOREST")
+print("---------------------------------------------")
+print("                   FOREST                    ")
 print("Fast Ontology-based Retrieval and Search Tool")
 print("---------------------------------------------")
